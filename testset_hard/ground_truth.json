@@ -1,0 +1,488 @@
+[
+ {
+  "file": "doc_02_hi_fee_mild.jpg",
+  "lang": "hi",
+  "language_code": "hi-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "रवि सिंह",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2341544",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "8500",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "18/07/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "mild"
+ },
+ {
+  "file": "doc_03_hi_exam_mild.jpg",
+  "lang": "hi",
+  "language_code": "hi-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "प्रिया वर्मा",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2392657",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "19/01/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "इंदौर",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "mild"
+ },
+ {
+  "file": "doc_18_kn_fee_mild.jpg",
+  "lang": "kn",
+  "language_code": "kn-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2427947",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "21750",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "28/09/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "mild"
+ },
+ {
+  "file": "doc_19_kn_exam_mild.jpg",
+  "lang": "kn",
+  "language_code": "kn-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "ಅನಿತಾ ರಾವ್",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2499485",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "08/03/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "ಬೆಂಗಳೂರು",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "mild"
+ },
+ {
+  "file": "doc_30_ta_fee_mild.jpg",
+  "lang": "ta",
+  "language_code": "ta-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "லதா மணி",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2444702",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "21750",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "27/12/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "mild"
+ },
+ {
+  "file": "doc_31_ta_exam_mild.jpg",
+  "lang": "ta",
+  "language_code": "ta-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "ராஜேஷ் குமார்",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2379239",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "05/12/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "சேலம்",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "mild"
+ },
+ {
+  "file": "doc_06_hi_fee_medium.jpg",
+  "lang": "hi",
+  "language_code": "hi-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "प्रिया वर्मा",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2584868",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "45500",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "07/06/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "medium"
+ },
+ {
+  "file": "doc_07_hi_exam_medium.jpg",
+  "lang": "hi",
+  "language_code": "hi-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "प्रिया वर्मा",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2517812",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "07/08/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "दिल्ली",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "medium"
+ },
+ {
+  "file": "doc_22_kn_fee_medium.jpg",
+  "lang": "kn",
+  "language_code": "kn-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2426448",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "45500",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "28/09/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "medium"
+ },
+ {
+  "file": "doc_23_kn_exam_medium.jpg",
+  "lang": "kn",
+  "language_code": "kn-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "ಲಕ್ಷ್ಮಿ ನಾಯಕ್",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2517076",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "28/11/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "ಬೆಳಗಾವಿ",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "medium"
+ },
+ {
+  "file": "doc_34_ta_fee_medium.jpg",
+  "lang": "ta",
+  "language_code": "ta-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "கவிதா சுந்தரம்",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2535578",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "12500",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "27/07/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "medium"
+ },
+ {
+  "file": "doc_35_ta_exam_medium.jpg",
+  "lang": "ta",
+  "language_code": "ta-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "அருண் கண்ணன்",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2456604",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "01/01/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "கோயம்புத்தூர்",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "medium"
+ },
+ {
+  "file": "doc_10_hi_fee_harsh.jpg",
+  "lang": "hi",
+  "language_code": "hi-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "नेहा गुप्ता",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2568829",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "15000",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "20/02/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "harsh"
+ },
+ {
+  "file": "doc_11_hi_exam_harsh.jpg",
+  "lang": "hi",
+  "language_code": "hi-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "रवि सिंह",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2354833",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "16/07/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "जयपुर",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "harsh"
+ },
+ {
+  "file": "doc_26_kn_fee_harsh.jpg",
+  "lang": "kn",
+  "language_code": "kn-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "ರವಿ ಕುಮಾರ್",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2310030",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "32000",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "05/09/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "harsh"
+ },
+ {
+  "file": "doc_27_kn_exam_harsh.jpg",
+  "lang": "kn",
+  "language_code": "kn-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2319216",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "20/07/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "ಮೈಸೂರು",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "harsh"
+ },
+ {
+  "file": "doc_38_ta_fee_harsh.jpg",
+  "lang": "ta",
+  "language_code": "ta-IN",
+  "template": "fee",
+  "fields": {
+   "student_name": {
+    "value": "பிரியா ராமன்",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2589988",
+    "kind": "text"
+   },
+   "amount_due": {
+    "value": "8500",
+    "kind": "digits"
+   },
+   "last_date": {
+    "value": "16/11/2026",
+    "kind": "digits"
+   }
+  },
+  "question": "What is the last date to pay the fee?",
+  "answer_field": "last_date",
+  "level": "harsh"
+ },
+ {
+  "file": "doc_39_ta_exam_harsh.jpg",
+  "lang": "ta",
+  "language_code": "ta-IN",
+  "template": "exam",
+  "fields": {
+   "candidate_name": {
+    "value": "லதா மணி",
+    "kind": "text"
+   },
+   "roll_number": {
+    "value": "RV2396584",
+    "kind": "text"
+   },
+   "exam_date": {
+    "value": "13/12/2026",
+    "kind": "digits"
+   },
+   "centre_city": {
+    "value": "மதுரை",
+    "kind": "text"
+   }
+  },
+  "question": "In which city is the exam centre?",
+  "answer_field": "centre_city",
+  "level": "harsh"
+ }
+]

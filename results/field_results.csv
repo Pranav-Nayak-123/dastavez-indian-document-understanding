@@ -1,0 +1,161 @@
+﻿file,lang,field,expected,got,correct
+doc_00_hi_fee.png,hi,student_name,नेहा गुप्ता,नेहा गुप्ता,True
+doc_00_hi_fee.png,hi,roll_number,RV2361750,RV2361750,True
+doc_00_hi_fee.png,hi,amount_due,45500,"45,500",True
+doc_00_hi_fee.png,hi,last_date,02/02/2026,02/02/2026,True
+doc_01_hi_exam.png,hi,candidate_name,नेहा गुप्ता,नेहा गुप्ता,True
+doc_01_hi_exam.png,hi,roll_number,RV2517602,RV2517602,True
+doc_01_hi_exam.png,hi,exam_date,07/01/2026,07/01/2026,True
+doc_01_hi_exam.png,hi,centre_city,जयपुर,जयपुर,True
+doc_02_hi_fee.png,hi,student_name,रवि सिंह,रवि सिंह,True
+doc_02_hi_fee.png,hi,roll_number,RV2341544,RV2341544,True
+doc_02_hi_fee.png,hi,amount_due,8500,"8,500",True
+doc_02_hi_fee.png,hi,last_date,18/07/2026,18/07/2026,True
+doc_03_hi_exam.png,hi,candidate_name,प्रिया वर्मा,प्रिया वर्मा,True
+doc_03_hi_exam.png,hi,roll_number,RV2392657,RV2392657,True
+doc_03_hi_exam.png,hi,exam_date,19/01/2026,19/01/2026,True
+doc_03_hi_exam.png,hi,centre_city,इंदौर,इंदौर,True
+doc_04_hi_fee.png,hi,student_name,रवि सिंह,रवि सिंह,True
+doc_04_hi_fee.png,hi,roll_number,RV2338977,RV2338977,True
+doc_04_hi_fee.png,hi,amount_due,8500,"8,500",True
+doc_04_hi_fee.png,hi,last_date,18/03/2026,18/03/2026,True
+doc_05_hi_exam.png,hi,candidate_name,अमित कुमार,अमित कुमार,True
+doc_05_hi_exam.png,hi,roll_number,RV2525439,RV2525439,True
+doc_05_hi_exam.png,hi,exam_date,10/09/2026,10/09/2026,True
+doc_05_hi_exam.png,hi,centre_city,दिल्ली,दिल्ली,True
+doc_06_hi_fee.png,hi,student_name,प्रिया वर्मा,प्रिया वर्मा,True
+doc_06_hi_fee.png,hi,roll_number,RV2584868,RV2584868,True
+doc_06_hi_fee.png,hi,amount_due,45500,"45,500",True
+doc_06_hi_fee.png,hi,last_date,07/06/2026,07/06/2026,True
+doc_07_hi_exam.png,hi,candidate_name,प्रिया वर्मा,प्रिया वर्मा,True
+doc_07_hi_exam.png,hi,roll_number,RV2517812,RV2517812,True
+doc_07_hi_exam.png,hi,exam_date,07/08/2026,07/08/2026,True
+doc_07_hi_exam.png,hi,centre_city,दिल्ली,दिल्ली,True
+doc_08_hi_fee.png,hi,student_name,रवि सिंह,रवि सिंह,True
+doc_08_hi_fee.png,hi,roll_number,RV2471027,RV2471027,True
+doc_08_hi_fee.png,hi,amount_due,32000,"32,000",True
+doc_08_hi_fee.png,hi,last_date,15/06/2026,15/06/2026,True
+doc_09_hi_exam.png,hi,candidate_name,अमित कुमार,अमित कुमार,True
+doc_09_hi_exam.png,hi,roll_number,RV2541994,RV2541994,True
+doc_09_hi_exam.png,hi,exam_date,19/05/2026,19/05/2026,True
+doc_09_hi_exam.png,hi,centre_city,इंदौर,इंदौर,True
+doc_10_hi_fee.png,hi,student_name,नेहा गुप्ता,नेहा गुप्ता,True
+doc_10_hi_fee.png,hi,roll_number,RV2568829,RV2568829,True
+doc_10_hi_fee.png,hi,amount_due,15000,"15,000",True
+doc_10_hi_fee.png,hi,last_date,20/02/2026,20/02/2026,True
+doc_11_hi_exam.png,hi,candidate_name,रवि सिंह,रवि सिंह,True
+doc_11_hi_exam.png,hi,roll_number,RV2354833,RV2354833,True
+doc_11_hi_exam.png,hi,exam_date,16/07/2026,16/07/2026,True
+doc_11_hi_exam.png,hi,centre_city,जयपुर,जयपुर,True
+doc_12_hi_fee.png,hi,student_name,प्रिया वर्मा,प्रिया वर्मा,True
+doc_12_hi_fee.png,hi,roll_number,RV2585107,RV2585107,True
+doc_12_hi_fee.png,hi,amount_due,15000,"15,000",True
+doc_12_hi_fee.png,hi,last_date,11/12/2026,11/12/2026,True
+doc_13_hi_exam.png,hi,candidate_name,पूजा मिश्रा,पूजा मिश्रा,True
+doc_13_hi_exam.png,hi,roll_number,RV2569795,RV2569795,True
+doc_13_hi_exam.png,hi,exam_date,27/02/2026,27/02/2026,True
+doc_13_hi_exam.png,hi,centre_city,पटना,पटना,True
+doc_14_hi_fee.png,hi,student_name,प्रिया वर्मा,प्रिया वर्मा,True
+doc_14_hi_fee.png,hi,roll_number,RV2350580,RV2350580,True
+doc_14_hi_fee.png,hi,amount_due,45500,"45,500",True
+doc_14_hi_fee.png,hi,last_date,19/11/2026,19/11/2026,True
+doc_15_hi_exam.png,hi,candidate_name,रवि सिंह,रवि सिंह,True
+doc_15_hi_exam.png,hi,roll_number,RV2555482,RV2555482,True
+doc_15_hi_exam.png,hi,exam_date,15/06/2026,15/06/2026,True
+doc_15_hi_exam.png,hi,centre_city,लखनऊ,लखनऊ,True
+doc_16_kn_fee.png,kn,student_name,ರವಿ ಕುಮಾರ್,ರವಿ ಕುಮಾರ್,True
+doc_16_kn_fee.png,kn,roll_number,RV2417727,RV2417727,True
+doc_16_kn_fee.png,kn,amount_due,12500,"12,500",True
+doc_16_kn_fee.png,kn,last_date,25/05/2026,25/05/2026,True
+doc_17_kn_exam.png,kn,candidate_name,ಸುಮಾ ಹೆಗಡೆ,ಸುಮಾ ಹೆಗಡೆ,True
+doc_17_kn_exam.png,kn,roll_number,RV2461242,RV2461242,True
+doc_17_kn_exam.png,kn,exam_date,03/03/2026,03/03/2026,True
+doc_17_kn_exam.png,kn,centre_city,ಮಂಗಳೂರು,ಮಂಗಳೂರು,True
+doc_18_kn_fee.png,kn,student_name,ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ,ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ,True
+doc_18_kn_fee.png,kn,roll_number,RV2427947,RV2427947,True
+doc_18_kn_fee.png,kn,amount_due,21750,"21,750",True
+doc_18_kn_fee.png,kn,last_date,28/09/2026,28/09/2026,True
+doc_19_kn_exam.png,kn,candidate_name,ಅನಿತಾ ರಾವ್,ಅನಿತಾ ರಾವ್,True
+doc_19_kn_exam.png,kn,roll_number,RV2499485,RV2499485,True
+doc_19_kn_exam.png,kn,exam_date,08/03/2026,08/03/2026,True
+doc_19_kn_exam.png,kn,centre_city,ಬೆಂಗಳೂರು,ಬೆಂಗಳೂರು,True
+doc_20_kn_fee.png,kn,student_name,ಸುಮಾ ಹೆಗಡೆ,ಸುಮಾ ಹೆಗಡೆ,True
+doc_20_kn_fee.png,kn,roll_number,RV2396313,RV2396313,True
+doc_20_kn_fee.png,kn,amount_due,12500,"12,500",True
+doc_20_kn_fee.png,kn,last_date,01/08/2026,01/08/2026,True
+doc_21_kn_exam.png,kn,candidate_name,ಕಿರಣ್ ಗೌಡ,ಕಿರಣ್ ಗೌಡ,True
+doc_21_kn_exam.png,kn,roll_number,RV2410536,RV2410536,True
+doc_21_kn_exam.png,kn,exam_date,14/09/2026,14/09/2026,True
+doc_21_kn_exam.png,kn,centre_city,ಹುಬ್ಬಳ್ಳಿ,ಹುಬ್ಬಳ್ಳಿ,True
+doc_22_kn_fee.png,kn,student_name,ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ,ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ,True
+doc_22_kn_fee.png,kn,roll_number,RV2426448,RV2426448,True
+doc_22_kn_fee.png,kn,amount_due,45500,"45,500",True
+doc_22_kn_fee.png,kn,last_date,28/09/2026,28/09/2026,True
+doc_23_kn_exam.png,kn,candidate_name,ಲಕ್ಷ್ಮಿ ನಾಯಕ್,ಲಕ್ಷ್ಮಿ ನಾಯಕ್,True
+doc_23_kn_exam.png,kn,roll_number,RV2517076,RV2517076,True
+doc_23_kn_exam.png,kn,exam_date,28/11/2026,28/11/2026,True
+doc_23_kn_exam.png,kn,centre_city,ಬೆಳಗಾವಿ,ಬೆಳಗಾವಿ,True
+doc_24_kn_fee.png,kn,student_name,ಅನಿತಾ ರಾವ್,ಅನಿತಾ ರಾವ್,True
+doc_24_kn_fee.png,kn,roll_number,RV2461658,RV2461658,True
+doc_24_kn_fee.png,kn,amount_due,8500,"8,500",True
+doc_24_kn_fee.png,kn,last_date,16/11/2026,16/11/2026,True
+doc_25_kn_exam.png,kn,candidate_name,ಸುಮಾ ಹೆಗಡೆ,ಸುಮಾ ಹೆಗಡೆ,True
+doc_25_kn_exam.png,kn,roll_number,RV2337363,RV2337363,True
+doc_25_kn_exam.png,kn,exam_date,06/02/2026,06/02/2026,True
+doc_25_kn_exam.png,kn,centre_city,ಹುಬ್ಬಳ್ಳಿ,ಹುಬ್ಬಳ್ಳಿ,True
+doc_26_kn_fee.png,kn,student_name,ರವಿ ಕುಮಾರ್,ರವಿ ಕುಮಾರ್,True
+doc_26_kn_fee.png,kn,roll_number,RV2310030,RV2310030,True
+doc_26_kn_fee.png,kn,amount_due,32000,"32,000",True
+doc_26_kn_fee.png,kn,last_date,05/09/2026,05/09/2026,True
+doc_27_kn_exam.png,kn,candidate_name,ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ,ಮಂಜುನಾಥ್ ಶೆಟ್ಟಿ,True
+doc_27_kn_exam.png,kn,roll_number,RV2319216,RV2319216,True
+doc_27_kn_exam.png,kn,exam_date,20/07/2026,20/07/2026,True
+doc_27_kn_exam.png,kn,centre_city,ಮೈಸೂರು,ಮೈಸೂರು,True
+doc_28_ta_fee.png,ta,student_name,முருகன் செல்வம்,முருகன் செல்வம்,True
+doc_28_ta_fee.png,ta,roll_number,RV2488941,RV2488941,True
+doc_28_ta_fee.png,ta,amount_due,15000,"15,000",True
+doc_28_ta_fee.png,ta,last_date,16/02/2026,16/02/2026,True
+doc_29_ta_exam.png,ta,candidate_name,பிரியா ராமன்,பிரியா ராமன்,True
+doc_29_ta_exam.png,ta,roll_number,RV2472966,RV2472966,True
+doc_29_ta_exam.png,ta,exam_date,10/02/2026,10/02/2026,True
+doc_29_ta_exam.png,ta,centre_city,மதுரை,மதுரை,True
+doc_30_ta_fee.png,ta,student_name,லதா மணி,லதா மணி,True
+doc_30_ta_fee.png,ta,roll_number,RV2444702,RV2444702,True
+doc_30_ta_fee.png,ta,amount_due,21750,"21,750",True
+doc_30_ta_fee.png,ta,last_date,27/12/2026,27/12/2026,True
+doc_31_ta_exam.png,ta,candidate_name,ராஜேஷ் குமார்,ராஜேஷ் குமார்,True
+doc_31_ta_exam.png,ta,roll_number,RV2379239,RV2379239,True
+doc_31_ta_exam.png,ta,exam_date,05/12/2026,05/12/2026,True
+doc_31_ta_exam.png,ta,centre_city,சேலம்,சேலம்,True
+doc_32_ta_fee.png,ta,student_name,அருண் கண்ணன்,அருண் கண்ணன்,True
+doc_32_ta_fee.png,ta,roll_number,RV2494268,RV2494268,True
+doc_32_ta_fee.png,ta,amount_due,8500,"8,500",True
+doc_32_ta_fee.png,ta,last_date,23/05/2026,23/05/2026,True
+doc_33_ta_exam.png,ta,candidate_name,கவிதா சுந்தரம்,கவிதா சுந்தரம்,True
+doc_33_ta_exam.png,ta,roll_number,RV2439201,RV2439201,True
+doc_33_ta_exam.png,ta,exam_date,18/09/2026,18/09/2026,True
+doc_33_ta_exam.png,ta,centre_city,கோயம்புத்தூர்,கோயம்புத்தூர்,True
+doc_34_ta_fee.png,ta,student_name,கவிதா சுந்தரம்,கவிதா சுந்தரம்,True
+doc_34_ta_fee.png,ta,roll_number,RV2535578,RV2535578,True
+doc_34_ta_fee.png,ta,amount_due,12500,"12,500",True
+doc_34_ta_fee.png,ta,last_date,27/07/2026,27/07/2026,True
+doc_35_ta_exam.png,ta,candidate_name,அருண் கண்ணன்,அருண் கண்ணன்,True
+doc_35_ta_exam.png,ta,roll_number,RV2456604,RV2456604,True
+doc_35_ta_exam.png,ta,exam_date,01/01/2026,01/01/2026,True
+doc_35_ta_exam.png,ta,centre_city,கோயம்புத்தூர்,கோயம்புத்தூர்,True
+doc_36_ta_fee.png,ta,student_name,முருகன் செல்வம்,முருகன் செல்வம்,True
+doc_36_ta_fee.png,ta,roll_number,RV2389316,RV2389316,True
+doc_36_ta_fee.png,ta,amount_due,15000,"15,000",True
+doc_36_ta_fee.png,ta,last_date,15/12/2026,15/12/2026,True
+doc_37_ta_exam.png,ta,candidate_name,ராஜேஷ் குமார்,ராஜேஷ் குமார்,True
+doc_37_ta_exam.png,ta,roll_number,RV2323389,RV2323389,True
+doc_37_ta_exam.png,ta,exam_date,16/04/2026,16/04/2026,True
+doc_37_ta_exam.png,ta,centre_city,கோயம்புத்தூர்,கோயம்புத்தூர்,True
+doc_38_ta_fee.png,ta,student_name,பிரியா ராமன்,பிரியா ராமன்,True
+doc_38_ta_fee.png,ta,roll_number,RV2589988,RV2589988,True
+doc_38_ta_fee.png,ta,amount_due,8500,"8,500",True
+doc_38_ta_fee.png,ta,last_date,16/11/2026,16/11/2026,True
+doc_39_ta_exam.png,ta,candidate_name,லதா மணி,லதா மணி,True
+doc_39_ta_exam.png,ta,roll_number,RV2396584,RV2396584,True
+doc_39_ta_exam.png,ta,exam_date,13/12/2026,13/12/2026,True
+doc_39_ta_exam.png,ta,centre_city,மதுரை,மதுரை,True

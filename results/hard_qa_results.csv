@@ -1,0 +1,19 @@
+﻿file,lang,level,question,expected,answer,correct
+doc_02_hi_fee_mild.jpg,hi,mild,What is the last date to pay the fee?,18/07/2026,18/07/2026,True
+doc_03_hi_exam_mild.jpg,hi,mild,In which city is the exam centre?,इंदौर,इंदौर,True
+doc_18_kn_fee_mild.jpg,kn,mild,What is the last date to pay the fee?,28/09/2026,28/09/2026,True
+doc_19_kn_exam_mild.jpg,kn,mild,In which city is the exam centre?,ಬೆಂಗಳೂರು,ಬೆಂಗಳೂರು,True
+doc_30_ta_fee_mild.jpg,ta,mild,What is the last date to pay the fee?,27/12/2026,27/12/2026,True
+doc_31_ta_exam_mild.jpg,ta,mild,In which city is the exam centre?,சேலம்,சேலம்,True
+doc_06_hi_fee_medium.jpg,hi,medium,What is the last date to pay the fee?,07/06/2026,07/06/2026,True
+doc_07_hi_exam_medium.jpg,hi,medium,In which city is the exam centre?,दिल्ली,दिल्ली,True
+doc_22_kn_fee_medium.jpg,kn,medium,What is the last date to pay the fee?,28/09/2026,28/09/2026,True
+doc_23_kn_exam_medium.jpg,kn,medium,In which city is the exam centre?,ಬೆಳಗಾವಿ,ಬೆಳಗಾವಿ,True
+doc_34_ta_fee_medium.jpg,ta,medium,What is the last date to pay the fee?,27/07/2026,27/07/2026,True
+doc_35_ta_exam_medium.jpg,ta,medium,In which city is the exam centre?,கோயம்புத்தூர்,கோயம்புத்தூர்,True
+doc_10_hi_fee_harsh.jpg,hi,harsh,What is the last date to pay the fee?,20/02/2026,20/02/2026,True
+doc_11_hi_exam_harsh.jpg,hi,harsh,In which city is the exam centre?,जयपुर,जयपुर,True
+doc_26_kn_fee_harsh.jpg,kn,harsh,What is the last date to pay the fee?,05/09/2026,05/09/2026,True
+doc_27_kn_exam_harsh.jpg,kn,harsh,In which city is the exam centre?,ಮೈಸೂರು,ಮಂಗಳೂರು ನಗರ,False
+doc_38_ta_fee_harsh.jpg,ta,harsh,What is the last date to pay the fee?,16/11/2026,Not found,False
+doc_39_ta_exam_harsh.jpg,ta,harsh,In which city is the exam centre?,மதுரை,மதுரை,True

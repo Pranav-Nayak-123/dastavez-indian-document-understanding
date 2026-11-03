@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dastavez · Indian document understanding</title>
+<meta name="description" content="Upload a notice, form or bill in any Indian language. Get the text, the key fields, a summary, a translation and answers.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%2316120E'/%3E%3Ctext x='32' y='46' font-size='40' text-anchor='middle' fill='%23F2EDE2' font-family='serif' font-weight='700'%3Eद%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..800;1,9..144,400..800&family=Instrument+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+
+<header class="nav">
+  <a class="brand" href="#top" aria-label="Dastavez home"><span class="brand-name">Dastavez</span><span class="brand-dev" lang="hi">दस्तावेज़</span></a>
+  <nav>
+    <a href="#try">Try it</a>
+    <a href="#proof">Results</a>
+    <a href="#how">How it works</a>
+  </nav>
+  <span class="nav-note">Powered by Sarvam&nbsp;AI</span>
+</header>
+
+<main id="top">
+
+<!-- ================= HERO ================= -->
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Document understanding &middot; 11 Indian languages</p>
+    <h1>Every document, <em>actually understood.</em></h1>
+    <p class="hero-dev" lang="hi">हर दस्तावेज़, अब आपकी भाषा में।</p>
+    <p class="lede">Photograph a college notice, a fee slip or a bill in Hindi, Kannada, Tamil or any other Indian language. Dastavez reads it, pulls out the numbers that matter, explains it in plain English, and translates it for you.</p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="#try">Read a document <span class="arr">&rarr;</span></a>
+      <a class="link" href="#proof">See how accurate it is</a>
+    </div>
+  </div>
+
+  <div class="stack" aria-hidden="true">
+    <figure class="sheet s3"><img src="/samples/doc_28_ta_fee.png" alt=""></figure>
+    <figure class="sheet s2"><img src="/samples/doc_16_kn_fee.png" alt=""></figure>
+    <figure class="sheet s1">
+      <img src="/samples/doc_00_hi_fee.png" alt="">
+      <span class="hl" style="top:28.4%;left:47%;width:12%"></span>
+      <span class="hl" style="top:36%;left:47%;width:16%"></span>
+      <span class="hl" style="top:43.6%;left:47%;width:12%"></span>
+      <span class="hl" style="top:51%;left:47%;width:16%"></span>
+      <span class="tag" style="top:28.4%">name</span>
+      <span class="tag" style="top:36%">id</span>
+      <span class="tag" style="top:43.6%">amount</span>
+      <span class="tag" style="top:51%">date</span>
+      <span class="scan"></span>
+    </figure>
+  </div>
+</section>
+
+<div class="marquee" aria-hidden="true">
+  <div class="marquee-track">
+    <span>हिन्दी</span><i>✦</i><span>ಕನ್ನಡ</span><i>✦</i><span>தமிழ்</span><i>✦</i><span>తెలుగు</span><i>✦</i><span>मराठी</span><i>✦</i><span>বাংলা</span><i>✦</i><span>ગુજરાતી</span><i>✦</i><span>മലയാളം</span><i>✦</i><span>ਪੰਜਾਬੀ</span><i>✦</i><span>ଓଡ଼ିଆ</span><i>✦</i><span>English</span><i>✦</i>
+    <span>हिन्दी</span><i>✦</i><span>ಕನ್ನಡ</span><i>✦</i><span>தமிழ்</span><i>✦</i><span>తెలుగు</span><i>✦</i><span>मराठी</span><i>✦</i><span>বাংলা</span><i>✦</i><span>ગુજરાતી</span><i>✦</i><span>മലയാളം</span><i>✦</i><span>ਪੰਜਾਬੀ</span><i>✦</i><span>ଓଡ଼ିଆ</span><i>✦</i><span>English</span><i>✦</i>
+  </div>
+</div>
+
+<!-- ================= TOOL ================= -->
+<section id="try" class="section tool">
+  <div class="sec-head reveal">
+    <span class="sec-num">01</span>
+    <h2>Try it on a document</h2>
+    <p>Upload your own, or pick one of our sample notices. Nothing is stored after you close the page.</p>
+  </div>
+
+  <div class="desk reveal">
+    <!-- left: the paper -->
+    <aside class="paper-col">
+      <div class="paper" id="paper">
+        <div class="paper-empty" id="paperEmpty">
+          <svg viewBox="0 0 48 48" width="44" height="44" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 5h17l9 9v29H12z"/><path d="M29 5v9h9"/><path d="M18 24h14M18 30h14M18 36h8"/></svg>
+          <p>Your document will appear here</p>
+        </div>
+        <div class="paper-view" id="paperView" hidden></div>
+        <span class="scan" id="scanLine" hidden></span>
+      </div>
+      <p class="paper-cap mono" id="paperCap"></p>
+    </aside>
+
+    <!-- right: controls / progress / results -->
+    <div class="panel-col" id="panel"></div>
+  </div>
+</section>
+
+<!-- ================= PROOF ================= -->
+<section id="proof" class="proof">
+  <div class="section">
+    <div class="sec-head light reveal">
+      <span class="sec-num">02</span>
+      <h2>Does it actually work?</h2>
+      <p>We ran 58 test cases with known answers: 40 clean scans, plus 18 copies degraded to look like blurry phone photos. All test documents are synthetic, so the right answers are exact.</p>
+    </div>
+
+    <div class="stat-grid reveal">
+      <div class="stat"><div class="stat-n" data-count="100" data-suffix="%">100%</div><div class="stat-l">of fields correct on clean scans <span class="mono">(160 of 160)</span></div></div>
+      <div class="stat"><div class="stat-n" data-count="100" data-suffix="%">100%</div><div class="stat-l">of questions answered correctly <span class="mono">(40 of 40)</span></div></div>
+      <div class="stat warn"><div class="stat-n" id="statHardFields" data-count="83.3" data-suffix="%">83%</div><div class="stat-l">of fields correct on phone photos <span class="mono">(60 of 72)</span></div></div>
+      <div class="stat warn"><div class="stat-n" id="statHardQa" data-count="88.9" data-suffix="%">89%</div><div class="stat-l">of questions correct on phone photos <span class="mono">(16 of 18)</span></div></div>
+    </div>
+
+    <div class="proof-body reveal">
+      <div class="chart" id="chart">
+        <h3>What happens as the photo gets worse</h3>
+        <div class="chart-bars" id="chartBars"></div>
+        <div class="legend mono"><span><i class="k1"></i>Fields</span><span><i class="k2"></i>Questions</span></div>
+      </div>
+      <div class="breaks">
+        <h3>Where it breaks</h3>
+        <p class="breaks-intro">Every mistake was on the harshest images. We read the raw output to find out why.</p>
+        <ol>
+          <li><b>Single digits get misread.</b> A blurry <span class="mono">3</span> becomes a <span class="mono">1</span>, a <span class="mono">8</span> becomes a <span class="mono">6</span>. It does this with full confidence, so check roll numbers.</li>
+          <li><b>Years go wrong.</b> <span class="mono">2026</span> read as <span class="mono">2024</span> in three dates.</li>
+          <li><b>Unreadable labels leave fields empty.</b> When the labels are unreadable the model returns nothing instead of guessing.</li>
+          <li><b>The text reader can hallucinate.</b> On one Tamil photo it invented a poem. The field reader, which looks at the image separately, still got the right name.</li>
+        </ol>
+      </div>
+    </div>
+
+    <details class="mistakes reveal">
+      <summary class="mono">Show every mistake <span id="mistakeCount"></span></summary>
+      <div id="mistakeTables"></div>
+    </details>
+  </div>
+</section>
+
+<!-- ================= HOW ================= -->
+<section id="how" class="section how">
+  <div class="sec-head reveal">
+    <span class="sec-num">03</span>
+    <h2>How it works</h2>
+    <p>Five steps, all handled by Indian-built models from Sarvam AI.</p>
+  </div>
+  <ol class="steps5 reveal">
+    <li><span class="n">1</span><h4>Upload</h4><p>A photo, scan or PDF in any of 22 Indian languages or English.</p></li>
+    <li><span class="n">2</span><h4>Read</h4><p><b>Sarvam Vision</b> reads the page, keeping tables and scripts intact.</p></li>
+    <li><span class="n">3</span><h4>Extract</h4><p>The key fields are pulled out: name, ID, date, amount, organisation.</p></li>
+    <li><span class="n">4</span><h4>Understand</h4><p><b>Sarvam&#8209;105B</b> writes the summary and answers questions from the document only.</p></li>
+    <li><span class="n">5</span><h4>Translate</h4><p><b>Sarvam&#8209;Translate</b> converts it line by line. IDs, dates and amounts are never touched.</p></li>
+  </ol>
+  <div class="notes reveal">
+    <div><h5 class="mono">Built for a brief</h5><p>CS3235 mini-project, <i>Indian Document Understanding Tool</i>, from the AI4Bharat and BharatGen project list. The brief suggests BharatGen Patram, a 15&nbsp;GB model with no hosted version, so we used Sarvam's hosted models.</p></div>
+    <div><h5 class="mono">Be careful with</h5><p>Roll numbers, dates and amounts on blurry photos. The tool can be confidently wrong about a single digit. Always compare with the original.</p></div>
+    <div><h5 class="mono">Privacy</h5><p>Files are sent to Sarvam AI's servers for processing. Please don't upload sensitive personal documents.</p></div>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot">
+  <span class="brand-name">Dastavez</span>
+  <span class="mono">CS3235 mini-project &middot; built with Sarvam AI &middot; sample documents are synthetic</span>
+</footer>
+
+<script src="/assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+flask
+requests
+python-dotenv
+pandas
+numpy
+Pillow

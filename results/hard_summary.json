@@ -1,0 +1,22 @@
+{
+  "Documents": 18,
+  "Field extraction accuracy": "83.3%",
+  "QA accuracy": "88.9%",
+  "Skipped (API errors)": 0,
+  "Fields acc. (mild)": "100.0%",
+  "QA acc. (mild)": "100.0%",
+  "Fields acc. (medium)": "100.0%",
+  "QA acc. (medium)": "100.0%",
+  "Fields acc. (harsh)": "50.0%",
+  "QA acc. (harsh)": "66.7%",
+  "Fields acc. (hi)": "87.5%",
+  "Fields acc. (kn)": "79.2%",
+  "Fields acc. (ta)": "83.3%",
+  "Field: amount_due": "88.9%",
+  "Field: candidate_name": "77.8%",
+  "Field: centre_city": "88.9%",
+  "Field: exam_date": "66.7%",
+  "Field: last_date": "88.9%",
+  "Field: roll_number": "77.8%",
+  "Field: student_name": "100.0%"
+}

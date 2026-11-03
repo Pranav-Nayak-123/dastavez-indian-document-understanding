@@ -1,0 +1,16 @@
+{
+  "Documents": 40,
+  "Field extraction accuracy": "100.0%",
+  "QA accuracy": "100.0%",
+  "Failed documents": 0,
+  "Fields acc. (hi)": "100.0%",
+  "Fields acc. (kn)": "100.0%",
+  "Fields acc. (ta)": "100.0%",
+  "Field: amount_due": "100.0%",
+  "Field: candidate_name": "100.0%",
+  "Field: centre_city": "100.0%",
+  "Field: exam_date": "100.0%",
+  "Field: last_date": "100.0%",
+  "Field: roll_number": "100.0%",
+  "Field: student_name": "100.0%"
+}
